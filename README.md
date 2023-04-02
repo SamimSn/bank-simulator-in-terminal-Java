@@ -1,6 +1,7 @@
 ## Getting Started
 
 Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+To start the application, type `java App.java` in the root directory of the program.
 
 ## Folder Structure
 
